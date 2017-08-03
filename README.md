@@ -1,2 +1,2 @@
 # vdasu.github.io
-Personal website. Work in progress.
+Personal website. Under development.
